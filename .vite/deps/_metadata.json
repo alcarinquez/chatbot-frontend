@@ -1,0 +1,79 @@
+{
+  "hash": "f9fa99a4",
+  "configHash": "169fbd60",
+  "lockfileHash": "91ff4739",
+  "browserHash": "69d58304",
+  "optimized": {
+    "@mui/icons-material/ArrowBackIosNew": {
+      "src": "../../node_modules/@mui/icons-material/esm/ArrowBackIosNew.js",
+      "file": "@mui_icons-material_ArrowBackIosNew.js",
+      "fileHash": "23a4a02d",
+      "needsInterop": false
+    },
+    "@mui/icons-material/ArrowDropDown": {
+      "src": "../../node_modules/@mui/icons-material/esm/ArrowDropDown.js",
+      "file": "@mui_icons-material_ArrowDropDown.js",
+      "fileHash": "85065300",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "3b92131e",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/esm/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "0b731534",
+      "needsInterop": false
+    },
+    "@mui/system": {
+      "src": "../../node_modules/@mui/system/esm/index.js",
+      "file": "@mui_system.js",
+      "fileHash": "596220d4",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e57745d8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "eb2689dc",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "d32d1390",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-ZOUZBVAJ": {
+      "file": "chunk-ZOUZBVAJ.js"
+    },
+    "chunk-AZ7R5XGZ": {
+      "file": "chunk-AZ7R5XGZ.js"
+    },
+    "chunk-EPERLL47": {
+      "file": "chunk-EPERLL47.js"
+    },
+    "chunk-ZGLRCHXJ": {
+      "file": "chunk-ZGLRCHXJ.js"
+    },
+    "chunk-WEJJOBXA": {
+      "file": "chunk-WEJJOBXA.js"
+    },
+    "chunk-VCDLJVZS": {
+      "file": "chunk-VCDLJVZS.js"
+    }
+  }
+}

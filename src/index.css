@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin 'tailwind-scrollbar';
+
+
+const profile => (profile)({
+    backgroundColor: '#000',
+    color: '#fff',
+    borderRadius: 999,
+    padding: '10px 20px',
+    fontWeight: 500,
+    textTransform: 'none',
+    marginTop: 24,
+    '&:hover': {
+      backgroundColor: '#111',
+    },
+  });

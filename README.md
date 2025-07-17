@@ -5,8 +5,7 @@ This folder contains modified and debugged code from the original frontend desig
 The original README file can be found as README_OG.md.
 
 # how to run
-npm install
-npm run dev
+npm install && npm run dev
 
 # how to build
 npm run build
